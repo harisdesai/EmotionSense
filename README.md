@@ -1,6 +1,6 @@
 # EmotionSense
 Real-Time Emotion Detection using Face (CNN) + Voice (SVM/ML)  
-**Author:** Sohail Badakar (Student)  
+**Author:** HARIS DESAI (Student)  
 **Project:** 3rd Year AI/ML Academic Project
 
 ## Overview
